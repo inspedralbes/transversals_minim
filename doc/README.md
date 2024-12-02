@@ -1,9 +1,9 @@
 # Documentació
-Llistat d'lguns dels punts que han de quedar explicats en aquesta carpeta. Poden ser tots en aquest fitxer o en diversos fitxers enllaçats.
+Llistat d'alguns dels punts que han de quedar explicats en aquesta carpeta. Poden ser tots en aquest fitxer o en diversos fitxers enllaçats.
 
 És obligatori modificar aquest document!!
 
-## Documentació bàsica
+## Documentació bàsica MÍNIMA
  * Objectius
  * Arquitectura bàsica
    * Tecnologies utilitzades
