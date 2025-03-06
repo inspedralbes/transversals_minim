@@ -10,7 +10,7 @@ Llistat d'alguns dels punts que han de quedar explicats en aquesta carpeta. Pode
    * Interrelació entre els diversos components
  * Com crees l'entorn de desenvolupament
  * Com desplegues l'aplicació a producció
- * Llistat d'endpoints de l'API de backend
+ * Llistat d'endpoints de l'API de backend (també podeu documentar-ho amb swagger)
     * Rutes
    * Exemples de JSON de peticó
    * Exemples de JSON de resposta i els seus codis d'estat 200? 404?
